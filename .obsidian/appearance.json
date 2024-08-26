@@ -1,5 +1,7 @@
 {
-  "textFontFamily": "NanumSquareOTF_ac",
-  "interfaceFontFamily": "NanumSquareOTF_ac",
-  "monospaceFontFamily": "NanumSquareOTF_ac"
+  "textFontFamily": "리디바탕",
+  "interfaceFontFamily": "리디바탕",
+  "monospaceFontFamily": "리디바탕",
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 13
 }
