@@ -13,7 +13,7 @@
      ![[스크린샷 2024-08-26 오후 2.47.38.png]]
    - Depth estimation
    - 3D scene reconstruction![[스크린샷 2024-08-26 오후 2.48.10.png]]
-#### 3.2 Time / Dynamics, Semantics
+#### 3.2 Time / Dynamics, Semantics![[스크린샷 2024-08-26 오후 2.51.12.png]]![[스크린샷 2024-08-26 오후 2.51.33.png]]
 ### 주요 학습 주제
 1. **Camera models**(카메라 모델): 카메라 시스템의 3D에서 2D로의 매핑 방법.
 2. **Single view metrology**(단일 뷰 측정): 단일 이미지에서 3D 정보를 추정하는 방법.
