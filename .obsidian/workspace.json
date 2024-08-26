@@ -11,9 +11,11 @@
             "id": "6cf82906cfd1971a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png"
+                "file": "week1/Introduction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png",
+                "file": "week1/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png",
+                "file": "week1/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png"
+                "file": "week1/Introduction.md"
               }
             }
           }
@@ -145,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4932e71a3f38de72",
+  "active": "6cf82906cfd1971a",
   "lastOpenFiles": [
+    "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+    "image/스크린샷 2024-08-26 오후 3.11.19.png",
     "week1/Introduction.md",
     "image/스크린샷 2024-08-26 오후 3.06.29.png",
     "image/스크린샷 2024-08-26 오후 3.04.30.png",
@@ -154,10 +158,8 @@
     "image/스크린샷 2024-08-26 오후 2.51.12.png",
     "image/스크린샷 2024-08-26 오후 3.23.41.png",
     "image/스크린샷 2024-08-26 오후 3.28.08.png",
-    "week1/Camera Models (Recorded on Canvas, no in-person class).md",
     "image",
     "image/스크린샷 2024-08-26 오후 3.16.18.png",
-    "image/스크린샷 2024-08-26 오후 3.11.19.png",
     "week1/ps0.md",
     "image/스크린샷 2024-08-26 오후 2.48.10.png",
     "image/스크린샷 2024-08-26 오후 2.47.38.png",
