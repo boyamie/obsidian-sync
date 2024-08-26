@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "week1/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "week1/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "week1/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md"
+                "file": "week1/Introduction.md"
               }
             }
           }
@@ -162,9 +162,14 @@
   },
   "active": "e4cbaf6de2a273e7",
   "lastOpenFiles": [
+    "스크린샷 2024-08-26 오후 2.44.34.png",
+    "스크린샷 2024-08-26 오후 2.44.07.png",
+    "스크린샷 2024-08-26 오후 2.43.33.png",
+    "스크린샷 2024-08-26 오후 2.42.55.png",
+    "스크린샷 2024-08-26 오후 2.41.52.png",
+    "week1/Camera Models (Recorded on Canvas, no in-person class).md",
     "week1/ps0.md",
     "week1/Introduction.md",
-    "week1/Camera Models (Recorded on Canvas, no in-person class).md",
     "week1",
     "style-settings.json",
     "2024-08-26.md"
