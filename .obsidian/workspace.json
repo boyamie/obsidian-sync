@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera Models (Recorded on Canvas, no in-person class).md",
-                "mode": "preview",
+                "file": "Introduction.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Models (Recorded on Canvas, no in-person class).md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "6cf82906cfd1971a",
   "lastOpenFiles": [
+    "2024-08-26.md",
     "Introduction.md",
     "Camera Models (Recorded on Canvas, no in-person class).md"
   ]
