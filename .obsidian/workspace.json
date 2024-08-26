@@ -11,28 +11,13 @@
             "id": "6cf82906cfd1971a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "week1/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4cbaf6de2a273e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
-                "mode": "source",
-                "source": false
+                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week1/Camera Models (Recorded on Canvas, no in-person class).md"
+                "file": "image/스크린샷 2024-08-26 오후 3.11.19.png"
               }
             }
           }
@@ -160,22 +145,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4cbaf6de2a273e7",
+  "active": "4932e71a3f38de72",
   "lastOpenFiles": [
-    "스크린샷 2024-08-26 오후 3.28.08.png",
-    "스크린샷 2024-08-26 오후 3.23.41.png",
-    "스크린샷 2024-08-26 오후 3.16.18.png",
-    "스크린샷 2024-08-26 오후 3.11.19.png",
-    "스크린샷 2024-08-26 오후 3.06.29.png",
-    "스크린샷 2024-08-26 오후 3.04.30.png",
     "week1/Introduction.md",
-    "week1/ps0.md",
-    "스크린샷 2024-08-26 오후 2.51.33.png",
-    "스크린샷 2024-08-26 오후 2.51.12.png",
-    "스크린샷 2024-08-26 오후 2.48.10.png",
-    "스크린샷 2024-08-26 오후 2.47.38.png",
-    "스크린샷 2024-08-26 오후 2.44.34.png",
+    "image/스크린샷 2024-08-26 오후 3.06.29.png",
+    "image/스크린샷 2024-08-26 오후 3.04.30.png",
+    "image/스크린샷 2024-08-26 오후 2.51.33.png",
+    "image/스크린샷 2024-08-26 오후 2.51.12.png",
+    "image/스크린샷 2024-08-26 오후 3.23.41.png",
+    "image/스크린샷 2024-08-26 오후 3.28.08.png",
     "week1/Camera Models (Recorded on Canvas, no in-person class).md",
+    "image",
+    "image/스크린샷 2024-08-26 오후 3.16.18.png",
+    "image/스크린샷 2024-08-26 오후 3.11.19.png",
+    "week1/ps0.md",
+    "image/스크린샷 2024-08-26 오후 2.48.10.png",
+    "image/스크린샷 2024-08-26 오후 2.47.38.png",
     "week1",
     "style-settings.json",
     "2024-08-26.md"
