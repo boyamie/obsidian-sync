@@ -8,7 +8,12 @@
 1. **Introduction**: 컴퓨터 비전에 대한 기본 소개 및 강의 개요 설명.
 2. **AI**(인공지능)는 현재 기술 발전의 주요 동력으로 작용하고 있으며, **Zipline**, **Waymo**, **OpenAI’s DALL-E**와 같은 다양한 애플리케이션에서 그 활용도를 보여주고 있다.![[스크린샷 2024-08-26 오후 2.41.52.png]]
 3. 컴퓨터 비전의 주요 분야는 **Space/Geometry**(공간/기하학), **Time/Dynamics**(시간/동역학), **Semantics**(의미론)으로 나눌 수 있다. ![[스크린샷 2024-08-26 오후 2.43.33.png]]![[스크린샷 2024-08-26 오후 2.44.34.png]]
-
+#### 3.1 Space / Geometry
+   - Object shape recovery
+     ![[스크린샷 2024-08-26 오후 2.47.38.png]]
+   - Depth estimation
+   - 3D scene reconstruction![[스크린샷 2024-08-26 오후 2.48.10.png]]
+#### 3.2 Time / Dynamics, Semantics
 ### 주요 학습 주제
 1. **Camera models**(카메라 모델): 카메라 시스템의 3D에서 2D로의 매핑 방법.
 2. **Single view metrology**(단일 뷰 측정): 단일 이미지에서 3D 정보를 추정하는 방법.
