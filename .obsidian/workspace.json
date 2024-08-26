@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps0.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ps0.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ps0.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ps0.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "e4cbaf6de2a273e7",
   "lastOpenFiles": [
-    "Camera Models (Recorded on Canvas, no in-person class).md",
     "ps0.md",
+    "Camera Models (Recorded on Canvas, no in-person class).md",
     "Introduction.md",
     "style-settings.json",
     "2024-08-26.md"
