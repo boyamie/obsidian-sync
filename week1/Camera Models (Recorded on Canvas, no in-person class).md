@@ -16,7 +16,7 @@
    - **Johann Zahn**(요한 자흔)과 **Joseph Nicéphore Niépce**(조제프 니세포르 니엡스)가 최초의 휴대용 카메라 및 사진을 개발한 과정
    - 사진의 발전과정, **Daguerréotypes**(다게레오타입) 및 **Color Photography**(컬러 사진)의 출현
 
-3. **Pinhole Perspective Projection**:
+3. **Pinhole Perspective Projection**:![[스크린샷 2024-08-26 오후 3.11.19.png]]
    - 핀홀 카메라의 투영 방정식을 소개하며, 이 방정식을 사용하여 3D 공간에서 2D 평면으로의 변환
    - 기하학적 변환을 통해 어떻게 이미지를 계산할 수 있는지
 
