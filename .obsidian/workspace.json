@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4cbaf6de2a273e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ps0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "ps0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "ps0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "ps0.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cf82906cfd1971a",
+  "active": "e4cbaf6de2a273e7",
   "lastOpenFiles": [
-    "style-settings.json",
-    "2024-08-26.md",
+    "Camera Models (Recorded on Canvas, no in-person class).md",
+    "ps0.md",
     "Introduction.md",
-    "Camera Models (Recorded on Canvas, no in-person class).md"
+    "style-settings.json",
+    "2024-08-26.md"
   ]
 }
